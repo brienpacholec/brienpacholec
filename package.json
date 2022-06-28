@@ -1,0 +1,24 @@
+{
+  "name": "brien-pacholec",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.6.4",
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-netlify-cms": "^1.0.9",
+    "netlify-cms": "^2.10.192",
+    "vuetify": "^2.6.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.18.0",
+    "eslint-plugin-vue": "^9.1.1",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2",
+    "webpack-node-externals": "^3.0.0"
+  }
+}
