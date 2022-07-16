@@ -18,11 +18,10 @@ roles:
   - name: Server's Assistant
     duration: December, 2015 - June, 2018
     description: >-
-      \- Served anywhere from 20 to 60 guests per night.
+      Served anywhere from 20 to 60 guests per night.
 
 
-      \- Attended to the needs of 2 to 3 servers per night including all of their guests.
+      * Attended to the needs of 2 to 3 servers per night including all of their guests.
 
-
-      \- Ensured that guests had an enjoyable dining experience by providing quality customer service.
+      * Ensured that guests had an enjoyable dining experience by providing quality customer service.
 ---
