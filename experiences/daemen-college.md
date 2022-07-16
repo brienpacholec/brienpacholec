@@ -1,6 +1,5 @@
 ---
 title: Daemen College
-Company: Daemen College
 company: Daemen College
 location: Getzville, NY
 order: 2

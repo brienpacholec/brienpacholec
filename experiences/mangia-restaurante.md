@@ -1,6 +1,6 @@
 ---
 title: Mangia Restaurante
-Company: Mangia Restauranté
+company: Mangia Restauranté
 location: Orchard Park, NY
 order: 3
 roles:

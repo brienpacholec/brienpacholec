@@ -1,6 +1,6 @@
 ---
 title: Orchard Heights
-Company: Orchard Heights
+company: Orchard Heights
 location: Orchard Park, NY
 order: 4
 roles:
