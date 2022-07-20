@@ -1,8 +1,7 @@
-# **Test**
+I reign from Buffalo, New York home of the Buffalo Bills & the world's best chicken wings! I graduated from Ithaca College in 2019 with a bachelor's degree in computer science. During my time as a Bomber, I played defensive tackle for the football team. I am currently wrapping up my master's of business in administration at Daemen College.
 
-**System**-wide [integrations](google.cpm) with *third*-party applications.
+Currently, work at Daemen College as a full-stack web developer. In my current role, I am responsible for the development of our student & faculty web portal. I develop on the front-end of the stack using SCSS, Vue.JS, and HTML5. On the back-end of things, my days of development are spent utilizing MySQL, PHP, and Python.
 
-* Data manipulation and automation with Apache Airflow.
-* Development and improvement of student/faculty portal and included systems.
+Beyond my day-in-day-out, I love to stay busy. I am an avid weight lifter, recently a skydiver, and traveling hiker. In the summer of 2021, my girlfriend and I spent 7 days hiking through southern Utah at a few national parks (Zion, Capitol Reef, Bryce Canyon, Grand Staircase Escalante).
 
-Throughout my time as a web developer, I have worked on many exciting projects. From small minor tweaks and changes to established systems to leading development on large-scale systems like that of our COVID-19 Campus Clearance system. I am constantly looking for ways to improve UI/UX by utilizing feedback responses from our students and faculty. In my current role, my responsibilities have been extended through continuous development on our Apache Airflow server. Additionally, this role takes lead on all major system changes to our student/faculty portal.
+I do find time to relax and take a break! In my free time, I enjoy playing XBOX, grabbing some beers with my friends, reading some nonfiction, and binge-watching some anime.
