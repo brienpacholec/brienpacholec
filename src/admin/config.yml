@@ -1,14 +1,14 @@
 backend:
   name: github
-  repo: brienpacholec/brien-pacholec
+  repo: brienpacholec/brienpacholec
 
 media_folder: "static/uploads"
 public_folder: "/uploads"
 
 collections:
-  - label: "Posts"
-    name: "posts"
-    folder: "posts"
+  - label: "Adventures"
+    name: "adventures"
+    folder: "adventures"
     create: true
     slug: "{{slug}}"
     fields:
@@ -17,5 +17,35 @@ collections:
       - {label: "Excerpt", name: "excerpt", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Display", name: "Display", widget: "boolean"}
+  - label: "Page Content"
+    name: "page_content"
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "page_content/home.md"
+        fields: 
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "About Page"
+        name: "about"
+        file: "page_content/about.md"
+        fields: 
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Services Page"
+        name: "services"
+        file: "page_content/services.md"
+        fields: 
+          - { label: "Featured Image", name: "thumbnail", widget: "image"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Reviews Page"
+        name: "reviews"
+        file: "page_content/reviews.md"
+        fields: 
+          - { label: "Featured Image", name: "thumbnail", widget: "image"}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Contact Page"
+        name: "contact"
+        file: "page_content/contact.md"
+        fields: 
+          - { label: "Featured Image", name: "thumbnail", widget: "image"}
+          - {label: "Body", name: "body", widget: "markdown"}
 

@@ -1,0 +1,16 @@
+h1 {
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif !important;
+}
+p, li, .raleway {
+    font-family: 'Raleway', sans-serif;
+}
+.text-color-main {
+    background-image: linear-gradient(135deg, $primary-color 0%, $secondary-color 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
